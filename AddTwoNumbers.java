@@ -6,7 +6,7 @@
  * @author prasanth
  *
  */
-public class Main {
+public class AddTwoNumbers {
 
 	/**
 	 * @param args
